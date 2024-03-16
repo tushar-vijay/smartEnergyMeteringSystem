@@ -1,2 +1,2 @@
-# smartEnergyMeteringSystem
+# Smart Energy Metering System
 In this project we built Smart Energy Meter using IoT. Here we used PZEM-004T AC multifunction Electric Energy Metering Power Monitor module to measure the parameters and will use NodeMCU ESP8266 to post the data to a server and make a dataset of all the readings. Analyzing the data, if the power consumption is near to the limit then the pop-up will be send to the registered IP address of that particular house using Python programming and API which will help them to be alert about the power consumption and will not have to pay extra bill.
